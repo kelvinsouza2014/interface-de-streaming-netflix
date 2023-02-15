@@ -1,0 +1,73 @@
+body {
+    background: #141414;
+}
+
+.banner {
+    width: 100%;
+    position: relative;
+}
+
+.titulo-serie-destaque {
+    width: 400px;
+    height: auto;
+    position: absolute;
+    top: 300px;
+    left: 150px;
+}
+
+.logo {
+    width: 95px;
+    height: auto;
+    padding-left: 60px;
+    padding-top: 5px;
+}
+
+.nav-caixa {
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+
+nav {
+    background: #141414;
+    width: 100%;
+    padding: 15px 0;
+}
+
+nav ul {
+    position: absolute;
+    top: 23px;
+    left: 180px;
+}
+
+nav li {
+    display: inline;
+    font-size: 14px;
+    font-family:'Arial';
+    margin-left: 15px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #e7e1e1;
+}
+
+.icones-nav {
+    position: absolute;
+    top: 12px;
+    right: 60px;
+
+}
+
+.pesquisa, .notificacoes {
+    height: 25px;
+    width: auto;
+    margin-left: 20px;
+}
+
+.perfis {
+    height: 33px;
+    width: auto;
+    margin-left: 20px;
+}
+
