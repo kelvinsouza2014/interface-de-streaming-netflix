@@ -3,11 +3,11 @@
 ## HTML:
 
 ### Cabeçalho:
-[] - 
-[] - 
-[] - 
-[] - 
-[] - 
+[] - Adicionar imagem de fundo do cabeçalho
+[] - Criar o menu de navegação
+[] - Criar dois botões: "Assistir" e "Mais informações
+[] - Aicionar o título "Minha lista 
+[] - Adicionar os vídeos do carrossel
 [] - 
 [] - 
 [] - 
