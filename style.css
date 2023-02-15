@@ -76,3 +76,25 @@ nav a {
 
     /*Conteúdo principal*/
 
+.resenha-serie-de-exibicao {
+    font-family: 'arial';
+    color: #FFFFF0;
+}
+
+.resenha {
+    margin: 20px 0;
+}
+
+.titulo {
+    font-weight: bold;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+
+.p-cinza {
+    color: #A1A1A1;
+}
+
+.resenha-creditos p {
+    margin: 10px 0;
+}
