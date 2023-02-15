@@ -1,3 +1,7 @@
+/*INTERFACE DE STREAMING - NETFLIX*/
+
+    /*Cabeçalho*/
+
 body {
     background: #141414;
 }
@@ -69,4 +73,6 @@ nav a {
     width: auto;
     margin-left: 20px;
 }
+
+    /*Conteúdo principal*/
 
