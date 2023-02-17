@@ -6,26 +6,6 @@ body {
     background: #141414;
 }
 
-.banner {
-    width: 100%;
-    position: relative;
-}
-
-.titulo-serie-destaque {
-    width: 500px;
-    height: auto;
-    position: absolute;
-    top: 230px;
-    left: 100px;
-}
-
-.logo {
-    width: 95px;
-    height: auto;
-    padding-left: 60px;
-    padding-top: 5px;
-}
-
 .nav-caixa {
     width: 100%;
     top: 0;
@@ -55,11 +35,17 @@ nav a {
     color: #e7e1e1;
 }
 
+.logo {
+    width: 95px;
+    height: auto;
+    padding-left: 60px;
+    padding-top: 5px;
+}
+
 .icones-nav {
     position: absolute;
     top: 12px;
     right: 60px;
-
 }
 
 .pesquisa, .notificacoes {
@@ -74,27 +60,45 @@ nav a {
     margin-left: 20px;
 }
 
-    /*Conteúdo principal*/
+.banner {
+    width: 100%;
+    position: relative;
+}
+
+.titulo-serie-destaque {
+    width: 500px;
+    height: auto;
+    position: absolute;
+    top: 330px;
+    left: 100px;
+}
 
 .resenha-serie-de-exibicao {
     font-family: 'arial';
     color: #FFFFF0;
-}
-
-.resenha {
-    margin: 20px 0;
+    position: absolute;
+    top: 505px;
+    left: 100px;
 }
 
 .titulo {
     font-weight: bold;
     font-size: 22px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
 }
 
 .p-cinza {
     color: #A1A1A1;
 }
 
-.resenha-creditos p {
-    margin: 10px 0;
+.resenha {
+    margin: 20px 0;
 }
+
+
+
+.resenha-creditos p {
+    margin: 12px 0;
+}
+
+    /*Conteúdo principal*/
