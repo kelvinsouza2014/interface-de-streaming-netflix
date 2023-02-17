@@ -49,13 +49,13 @@ nav a {
 }
 
 .pesquisa, .notificacoes {
-    height: 25px;
+    height: 22px;
     width: auto;
     margin-left: 20px;
 }
 
 .perfis {
-    height: 33px;
+    height: 31px;
     width: auto;
     margin-left: 20px;
 }
@@ -81,10 +81,17 @@ nav a {
     left: 100px;
 }
 
+.resenha-serie-de-exibicao h2 {
+    margin-bottom: 25px;
+}
+
 .titulo {
     font-weight: bold;
     font-size: 22px;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
+    margin-top: 50px;
+    color: #ffffff;
+    font-family: 'arial';
 }
 
 .p-cinza {
@@ -95,10 +102,25 @@ nav a {
     margin: 20px 0;
 }
 
-
-
 .resenha-creditos p {
     margin: 12px 0;
 }
 
     /*Conteúdo principal*/
+
+.conteudo-principal {
+    margin-left: 60px;
+}
+
+.minha-lista {
+    margin-top: -20px;
+}
+
+.conteudo-principal li {
+    display: inline;
+}
+
+.imagem {
+    width: 220px;
+    height: 122px;
+}
