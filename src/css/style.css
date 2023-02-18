@@ -60,9 +60,14 @@ nav a {
     margin-left: 20px;
 }
 
+.serie-de-exibicao{
+    position: relative;
+    width: 100%;
+}
+
 .banner {
     width: 100%;
-    position: relative;
+    position: absolute;
 }
 
 .titulo-serie-destaque {
