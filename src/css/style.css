@@ -153,6 +153,20 @@ footer a:hover {
     text-decoration: underline;
 }
 
+.redes-sociais ul {
+    margin-left: 90px;
+}
+
+.redes-sociais li {
+    display: inline;
+    margin-left: 25px;
+}
+
+.redes-sociais img{
+    height: 21px;
+    width: auto;
+}
+
 .rodape-caixa {
     margin-left: 100px;
 }
