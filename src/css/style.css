@@ -126,6 +126,12 @@ nav a {
     height: 122px;
 }
 
+.imagem:hover {
+    width: 235px;
+    height: auto;
+    border: 1px solid #FFFFFF;
+}
+
     /*Rodapé*/
 
 footer {
