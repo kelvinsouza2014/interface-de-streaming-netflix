@@ -62,19 +62,17 @@ nav a {
 
 .serie-de-exibicao{
     position: relative;
-    width: 100%;
 }
 
 .banner {
     width: 100%;
-    position: absolute;
 }
 
 .titulo-serie-destaque {
     width: 500px;
     height: auto;
     position: absolute;
-    top: 330px;
+    top: 230px;
     left: 100px;
 }
 
@@ -82,7 +80,7 @@ nav a {
     font-family: 'arial';
     color: #FFFFF0;
     position: absolute;
-    top: 505px;
+    top: 405px;
     left: 100px;
 }
 
