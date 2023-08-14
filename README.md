@@ -37,7 +37,7 @@ Consta com um layout moderno, bonito e com bastante elementos.
 
 ## 📂 Temas abordados
 
-Recursos html e css:
+Recursos HTML e CSS:
 
 - `html` semântico
 - Hyperlinks `<a>`
