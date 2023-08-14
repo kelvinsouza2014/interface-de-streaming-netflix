@@ -28,7 +28,7 @@ Consta com um layout moderno, bonito e com bastante elementos.
 - Código organizado
 - Código limpo
 - Uso moderado de classes e identificadores
-- Dinâmico
+- Página dinâmica
 - Fácil compreensão do código
 
 <br>
