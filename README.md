@@ -37,7 +37,7 @@ Consta com um layout moderno, bonito e com bastante elementos.
 
 ## 📂 Temas abordados
 
-Lorem ipsum dolor sit amet, consectetur
+Recursos html e css:
 
 - `html` semântico
 - Hyperlinks `<a>`
