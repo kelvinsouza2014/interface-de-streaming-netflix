@@ -49,7 +49,13 @@ Recursos HTML e CSS:
 <br>
 
 ## 🏆 Desafio
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a nunc eget eros blandit facilisis. Etiam in suscipit purus. Cras molestie tincidunt quam, at laoreet diam aliquet fringilla. Aliquam erat volutpat.
+No intuíto de me desafiar a fazer uma coisa grande e desafiadora, decidi dar um passo além, nos meus desafios, me propus a fazer um clone da plataforma de streaming Netflix. Desenvolvendo somente com HTML e CSS.
+
+Neste projeto aperfeiçoei a minha organização de código, codando de uma maneira mais “clean” (limpa), codando sem o uso demasiado de classes ou identificadores, facilitando uma melhor visualização e entendimento do código.
+
+Aprimorei ainda mais o uso de listas não ordenadas, trabalhando com hiperlinks, adicionando a propriedade “target” e adicionei bastante funções de interação com o cursor.
+
+Me aperfeiçoei e trabalhei bastante com o uso de divisões de conteúdos, posicionamentos e sobreposição de elementos.
 
 <br>
 
