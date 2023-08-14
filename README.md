@@ -25,11 +25,11 @@ Consta com um layout moderno, bonito e com bastante elementos.
 
 ## ⭐ **Características**
 
+- Código de fácil compreensão
 - Código organizado
 - Código limpo
 - Uso moderado de classes e identificadores
 - Página dinâmica
-- Fácil compreensão do código
 
 <br>
 
