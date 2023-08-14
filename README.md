@@ -67,6 +67,6 @@ Você pode acessar ao resultado final do projeto <a href="https://kelvinsouza201
 
 <br>
 
-## 🙋🏻‍♂️ Autor
+## 🙋🏻‍♂️ Autor / Desenvolvedor
 
 Kelvin Souza
