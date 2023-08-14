@@ -9,8 +9,8 @@ Desenvolvido somente com HTML e CSS.
 <br>
 
 ## Resultado final
-![netflix](https://github.com/kelvinsouza2014/interface-de-streaming-netflix/assets/121948262/fdc13284-9de6-47c0-b149-ea09e523451a)
-![netflix](https://github.com/kelvinsouza2014/interface-de-streaming-netflix/assets/121948262/2fccab31-3ae7-488c-b85c-8b93c7ce3416)
+![netflix_01](https://github.com/kelvinsouza2014/interface-de-streaming-netflix/assets/121948262/3905220c-d205-4d0c-844f-3f623d3ecfc4)
+![netflix_00](https://github.com/kelvinsouza2014/interface-de-streaming-netflix/assets/121948262/478b54b6-fd93-4dc9-96b7-9f6854045cb0)
 
 
 <br>
