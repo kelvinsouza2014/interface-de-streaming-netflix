@@ -63,7 +63,7 @@ Me aperfeiçoei e trabalhei bastante com o uso de divisões de conteúdos, posic
 <br>
 
 ## 💻 Demonstração
-Você pode acessar ao resultado final do projeto <a href="https://kelvinsouza2014.github.io/interface-de-streaming-netflix/">Clicando aqui</a>.
+Você pode acessar ao resultado final do projeto <a href="https://kelvinsouza2014.github.io/interface-de-streaming-netflix/" target="_blank">Clicando aqui</a>.
 
 <br>
 
