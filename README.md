@@ -9,7 +9,7 @@ Desenvolvido somente com HTML e CSS.
 <br>
 
 ## Protótipo
-<video src="./src/video/netflix_project" controls></video>
+<video src="./src/video/netflix_project.mkv" controls></video>
 
 
 <br>
