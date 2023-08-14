@@ -4,7 +4,8 @@ Clone da plataforma de streaming Netflix.
 
 Consta com um layout moderno, bonito e com bastante elementos. 
 
-Desenvolvido somente com HTML e CSS.
+### Tecnologias
+`html` `css`
 
 <br>
 
