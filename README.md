@@ -4,9 +4,6 @@ Clone da plataforma de streaming Netflix.
 
 Consta com um layout moderno, bonito e com bastante elementos. 
 
-### Tecnologias
-`html` `css`
-
 <br>
 
 ## Resultado final
@@ -20,6 +17,7 @@ Consta com um layout moderno, bonito e com bastante elementos.
 - ⭐ Características
 - 📂 Temas abordados
 - 🏆 Desafio
+- ⚙ Tecnologias
 - 💻 Demonstração
 - 🙋🏻‍♂️ Autor
 
@@ -56,6 +54,11 @@ Neste projeto aperfeiçoei a minha organização de código, codando de uma mane
 Aprimorei ainda mais o uso de listas não ordenadas (`<ul>`), trabalhando com hiperlinks (`<a>`), adicionando a propriedade `target` e adicionei bastante funções de interação com o cursor (`:hover`).
 
 Me aperfeiçoei e trabalhei bastante com o uso de divisões de conteúdos, posicionamentos e sobreposição de elementos.
+
+<br>
+
+## ⚙ Tecnologias
+`html` `css`
 
 <br>
 
