@@ -19,7 +19,7 @@ Consta com um layout moderno, bonito e com bastante elementos.
 - 🏆 Desafio
 - ⚙ Tecnologias
 - 💻 Demonstração
-- 🙋🏻‍♂️ Autor
+- 🙋🏻‍♂️ Autor / Desenvolvedor
 
 <br>
 
