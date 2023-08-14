@@ -3,6 +3,7 @@
 Clone da plataforma de streaming Netflix. 
 
 Consta com um layout moderno, bonito e com bastante elementos. 
+---
 
 ### Tecnologias
 `html` `css`
