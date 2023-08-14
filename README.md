@@ -8,8 +8,9 @@ Desenvolvido somente com HTML e CSS.
 
 <br>
 
-## Protótipo
-<video src="./src/video/netflix_project.mkv" controls></video>
+## Resultado final
+![netflix](https://github.com/kelvinsouza2014/interface-de-streaming-netflix/assets/121948262/fdc13284-9de6-47c0-b149-ea09e523451a)
+![netflix](https://github.com/kelvinsouza2014/interface-de-streaming-netflix/assets/121948262/2fccab31-3ae7-488c-b85c-8b93c7ce3416)
 
 
 <br>
