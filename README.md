@@ -1,3 +1,5 @@
+https://img.shields.io/badge/Status%20do%20projeto:-Conclu%C3%ADdo-green
+
 <h1 align="center"> 📌Interface de Streaming -  Netflix</h1>
 
 Clone da plataforma de streaming Netflix. 
