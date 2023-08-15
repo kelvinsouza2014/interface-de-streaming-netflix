@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/Status%20do%20projeto:-Em%20andamento-cc7002">
+<img src="https://img.shields.io/badge/Status do projeto:-Concluído-43853D">
 
 <h1 align="center"> 📌Interface de Streaming -  Netflix</h1>
 
